@@ -1,6 +1,6 @@
 # MLOps on GCP
 
-This projects serves as an example of deploying MLOPs on GcP.
+This projects serves as an example of deploying MLOPs on GCP.
 
 [Walkthrough of the project can be found on Youtube](https://www.youtube.com/watch?v=QImMWBdnEJY)
 
