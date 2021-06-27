@@ -2,7 +2,7 @@
 
 This projects serves as an example of deploying MLOPs on GCP.
 
-[Walkthrough of the project can be found on Youtube](https://www.youtube.com/watch?v=QImMWBdnEJY)
+[Walkthrough of the project can be found on Youtube](https://www.youtube.com/watch?v=SBRZMN2Oys0)
 
 Dataset used is from [Kaggle Years of experience and Salary dataset](https://www.kaggle.com/rohankayan/years-of-experience-and-salary-dataset)
 
